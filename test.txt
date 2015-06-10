@@ -3,3 +3,4 @@ write something new
 Write something on the server 
 write on desktop
 new content remove all conflict 
+change desktop master 
